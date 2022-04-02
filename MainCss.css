@@ -1,0 +1,151 @@
+.Heading{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+}
+
+.DL{
+  text-align: center;
+  font-size: small;
+  font-family:'Courier New', Courier, monospace ;
+}
+
+.Ip{
+  cursor: pointer;
+}
+
+
+
+#can{
+    height:250px;
+    border: 1px solid lightgrey;
+    position: fixed;
+    top: 200px;
+    left: 20px;
+  }
+
+#can2{
+    height: 250px;
+    border: 1px solid lightgray;
+    position: fixed;
+    top: 200px;
+    right: 20px;
+}
+  
+  input{
+    font-size: 14px;
+  }
+
+  body{
+    margin:30px;
+  }
+
+
+/*Here Starts Format button*/
+.Greyscale
+{
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 8%;
+  position: fixed;
+  left: 550px;
+  bottom: 400px;
+  border-radius: 20px;
+}
+
+.Red
+{
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 8%;
+  position: fixed;
+  right: 550px;
+  bottom: 400px;
+  border-radius: 20px;
+}
+.Blue
+{
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 8%;
+  position: fixed;
+  left: 550px;
+  bottom: 350px;
+  border-radius: 20px;
+}
+.Green
+{
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 8%;
+  position: fixed;
+  right: 550px;
+  bottom: 350px;
+  border-radius: 20px;
+}
+.Invert
+{
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 8%;
+  position: fixed;
+  left: 550px;
+  bottom: 300px;
+  border-radius: 20px;
+}
+
+.Rainbow
+{
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 8%;
+  position: fixed;
+  right: 550px;
+  bottom: 300px;
+  border-radius: 20px;
+}
+
+.Blur
+{
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 8%;
+  position: fixed;
+  left: 550px;
+  bottom: 250px;
+  border-radius: 20px;
+}
+
+.Unblur
+{
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 8%;
+  position: fixed;
+  right: 550px;
+  bottom: 250px;
+  border-radius: 20px;
+}
+
+.Reset
+{
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 8%;
+  position: fixed;
+  left: 550px;
+  bottom: 200px;
+  border-radius: 20px;
+}
+
+.Clear
+{
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 8%;
+  position: fixed;
+  right: 550px;
+  bottom: 200px;
+  border-radius: 20px;
+}
